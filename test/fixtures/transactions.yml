@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  amount: 
+  description: MyString
+  balance_after_transaction: 
+  account_id: 1
+
+two:
+  amount: 
+  description: MyString
+  balance_after_transaction: 
+  account_id: 1
